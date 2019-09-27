@@ -1,3 +1,3 @@
-Live demo: https://voss-e.github.io/colorText/ :traffic_light:
+Live demo: https://vosse.github.io/colorText/ :traffic_light:
 
 Useless app
